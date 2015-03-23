@@ -1,2 +1,2 @@
 # hello-world
-This is how I lose my git-hub-virginity. ;-)
+Today I decided to get serious with github and that is the reason why I am wrting this file as part of the first tutorial.
